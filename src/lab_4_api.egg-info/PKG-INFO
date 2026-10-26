@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: lab-4-api
+Version: 0.1.0
+Summary: FastAPI REST service and httpx client
+Requires-Python: >=3.12

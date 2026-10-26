@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/api_client/__init__.py
+src/api_client/client.py
+src/api_service/__init__.py
+src/api_service/app.py
+src/api_service/models.py
+src/api_service/repository.py
+src/lab_4_api.egg-info/PKG-INFO
+src/lab_4_api.egg-info/SOURCES.txt
+src/lab_4_api.egg-info/dependency_links.txt
+src/lab_4_api.egg-info/top_level.txt
+tests/test_api.py
